@@ -44,7 +44,7 @@ Weird interaction with holding down keys to show accented letters. Run `defaults
 
 ## Quick install
 ```
-git clone https://github.com/nik3daz/spin2win.git
+git clone https://github.com/7oi/phoenix-config.git
 cd spin2win
 ln -s `pwd`/out/phoenix.js ~/.phoenix.js 
 ```
@@ -52,7 +52,7 @@ ln -s `pwd`/out/phoenix.js ~/.phoenix.js
 ## Building
 
 ```
-git clone https://github.com/nik3daz/spin2win.git
+git clone https://github.com/7oi/phoenix-config.git
 cd spin2win
 yarn install
 yarn run build
